@@ -1,3 +1,5 @@
+This is settings of my vscode
+Fell free to use it
 {
   "editor.fontSize": 12,
   "window.zoomLevel": 0,
